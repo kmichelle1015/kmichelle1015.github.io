@@ -1,0 +1,44 @@
+/*CSS DOCUMENT*/
+
+@import url("https://use.typekit.net/lxf4hgt.css");
+@import url("https://use.typekit.net/lxf4hgt.css");
+
+div.container{
+    max-width: 50em;
+    margin: auto;}
+
+h1{
+    text-align: center;
+    font-family: "wedding-gothic-atf", sans-serif;
+    font-weight: 600;
+    font-style: normal;}
+
+h2{
+    text-align: center;
+    font-family: "wedding-gothic-atf", sans-serif;
+    font-weight: 400;
+    font-style: normal;}
+
+div.intro{
+    color: rgb(165, 16, 0);
+    font-family: "raleway", sans-serif;
+    font-weight: 600;
+    font-style: normal;}
+
+h3{
+    color: rgb(111, 172, 68);}
+
+div.maincontent{
+    font-family: "raleway", sans-serif;
+    font-weight: 400;
+    font-style: normal;}
+
+img {
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;}
+
+h6{
+    font-family: "raleway", sans-serif;
+    font-weight: 200;
+    font-style: italic;}
